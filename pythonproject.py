@@ -356,7 +356,7 @@ btn4.place(x=550, y=700)
 
 
 
-#lbl3=Label(window, text="Madhav Vitthal Aneraye (10303320191124510062)", fg='#03fc67', font=("Times New Roman", 28))
+#lbl3=Label(window, text="Ayush Suresh Patle (10303320191124510002)", fg='#03fc67', font=("Times New Roman", 28))
 
 #lbl3.place(x=110, y=700)
 
